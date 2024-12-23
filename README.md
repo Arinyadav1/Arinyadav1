@@ -35,17 +35,17 @@
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
-      <br>Java
+      <br>Compose
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Kotlin
+      <br>Compose
     </td>
     <td align="center" width="96">
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="icon" width="65" height="65" />
-      <br>DSA
+      <br>Compose
     </td>
     <td align="center" width="96">
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="icon" width="65" height="65" />
@@ -53,19 +53,19 @@
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Studio
+      <br>Compose
     </td>
        <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Firebase
+      <br>Compose
     </td>
        <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="GitHub" />
-      <br>Sqlite
+      <br>Compose
     </td>
           <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="Rest API" />
-      <br>Git
+      <br>Compose
     </td>
           <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Rest API" />
@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="icon" width="65" height="65" />
-      <br>VsCode
+      <br>Compose
     </td>
   </tr>
  
