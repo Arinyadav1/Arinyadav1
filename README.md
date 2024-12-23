@@ -1,15 +1,32 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Arin Yadav 
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="35" height="35" /> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Arin Yadav
 <div>
 <img src="https://github.com/Arinyadav1/Arinyadav1/blob/ba7bdb035e302610b44f6bed93330e1340d6f766/bannerNew.svg" alt= "👋 Hi there! I'm Arin Yadav" title="👋 Hi there! I'm Arin Yadav"/> 
 </div>
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=1600&height=120&lines=I+am+Building+my+skills+to+become+a+Software+Developer+and+My+deep+interest+in+Full+Stack%2C;App+Development+and+DSA%2C+I+am+doing+great+to+build+the+skills+of+Advanced+level." alt="Typing SVG" /></a>
+<p align="center">I am Building my skills to become a Software Developer and My deep interest in Full Stack App Development, and DSA, I am doing great to build the skills of Advanced level. </p>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Up!%20Button.png" alt="Up! Button" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25" height="25" />
+</div>
+
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I+am+Full+Stack+App+Developer;Logic+Builder+and+Problem+Solver;I+am+Building+Myself+for+Beat+the+Future+;I+am+Passionate+to+Learning+New+Things+always" alt="Typing SVG" /></a>
   <p></p>
 </div>
+
+
+
 
 
 
