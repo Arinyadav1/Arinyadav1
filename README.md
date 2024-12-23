@@ -2,7 +2,7 @@
 <div>
 <img src="https://github.com/Arinyadav1/Arinyadav1/blob/main/channels4_banner_enhanced.jpg?raw=true" alt="👋 Hi there! I'm Arin Yadav" title="👋 Hi there! I'm Arin Yadav"/> 
 </div>
-<div align="justify">
+<div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=2000&height=100&lines=I+am+Building+my+skills+to+become+a+Software+Developer+and+My+deep+interest+in+Full+Stack+App+Development%2C;+and+DSA%2C+I+am+doing+great+to+build+the+skills+of+Advanced+level." alt="Typing SVG" /></a>
 
