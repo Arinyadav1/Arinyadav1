@@ -15,24 +15,23 @@
 
 
 <!-- Social icons section -->
-## Reach to Me
-> Tools and technologies that I have worked with and am interested in
+## Connect with me 
+> You can reach to me for be familiar with my skills
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/twitter-x.svg"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="45px" alt="Gmail" title="Gmail" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/linkedin.svg"/></a>
+  <a href="mailto:arinyadav98@gmail.com"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/reddit.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/facebook.svg"/></a>
+  <a href="https://wa.me/919027899549"><img width="45px" alt="whatsapp" title="Whatapp" src="https://github.com/appicons/Whatsapp/blob/22e69b920f94a974b7bb308a76c9341821e48fec/icons/whatsapp_194x194.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/facebook.svg"/></a> -->
   </p>
 
 
 
+## Tools and Technology That I Love ⚙️
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
+> I have experience of above mentioned all Tools and Technology
 
 <div align="center">
 <table>
