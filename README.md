@@ -44,8 +44,12 @@
       <br>Kotlin
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="icon" width="65" height="65" />
+      <br>DSA
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="icon" width="65" height="65" />
+      <br>Compose
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="icon" width="65" height="65" />
@@ -60,16 +64,16 @@
       <br>Sqlite
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="Rest API" />
+      <br>Git
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Rest API" />
+      <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="icon" width="65" height="65" />
+      <br>VsCode
     </td>
   </tr>
  
