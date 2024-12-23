@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arin Yadav 
 <div>
-<img src="https://github.com/Arinyadav1/Arinyadav1/blob/2f236fba7f539980ffdafc2e32bc418483792df2/FpW9MRCXEAA9duQ%20(1).jpg" alt="👋 Hi there! I'm Arin Yadav" title="👋 Hi there! I'm Arin Yadav"/> 
+<img src="https://github.com/Arinyadav1/Arinyadav1/blob/ba7bdb035e302610b44f6bed93330e1340d6f766/bannerNew.svg" alt="👋 Hi there! I'm Arin Yadav" title="👋 Hi there! I'm Arin Yadav"/> 
 </div>
 <div>
 
