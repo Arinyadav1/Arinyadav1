@@ -4,8 +4,7 @@
 </div>
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=2000&height=100&lines=I+am+Building+my+skills+to+become+a+Software+Developer+and+My+deep+interest+in+Full+Stack+App+Development%2C;+and+DSA%2C+I+am+doing+great+to+build+the+skills+of+Advanced+level." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=1600&height=120&lines=I+am+Building+my+skills+to+become+a+Software+Developer+and+My+deep+interest+in+Full+Stack%2C;App+Development+and+DSA%2C+I+am+doing+great+to+build+the+skills+of+Advanced+level." alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I+am+Full+Stack+App+Developer;Logic+Builder+and+Problem+Solver;I+am+Building+Myself+for+Beat+the+Future+;I+am+Passionate+to+Learning+New+Things+always" alt="Typing SVG" /></a>
