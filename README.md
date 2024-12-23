@@ -35,45 +35,45 @@
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
-      <br>Compose
+      <br>&#8287;&#8287;Java&#8287;&#8287;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="icon" width="65" height="65" />
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="65" height="65" />
       </a>
+      <br>&#8287;&#8287;Kotlin&#8287;&#8287;
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="dsa" width="65" height="65" />
+      <br>&#8287;&#8287;&#8287;&#8287;DSA&#8287;&#8287;&#8287;&#8287;
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="compose" width="65" height="65" />
       <br>Compose
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="icon" width="65" height="65" />
-      <br>Compose
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="icon" width="65" height="65" />
-      <br>Compose
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Compose
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="65" height="65" />
+      <br>&#8287;&#8287;Studio&#8287;&#8287;
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Compose
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65" />
+      <br>&#8287;Firebade&#8287;
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="GitHub" />
-      <br>Compose
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="sqlite" />
+      <br>&#8287;&#8287;SqLite&#8287;&#8287;&#8287;
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="Rest API" />
-      <br>Compose
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="git" />
+      <br>&#8287;&#8287;&#8287;&#8287;Git&#8287;&#8287;&#8287;&#8287;
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Rest API" />
-      <br>Github
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Github" />
+      <br>&#8287;&#8287;Github&#8287;&#8287;
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Compose
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="65" height="65" />
+      <br>&#8287;&#8287;VsCode&#8287;&#8287;
     </td>
   </tr>
  
