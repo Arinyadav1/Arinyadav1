@@ -48,45 +48,53 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="120" >
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
+    <td align="center" width="96" >
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="60" height="60" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="60" height="60" />
       <br>Kotlin
     </td>
     <td align="center"width="96">
-        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="dsa" width="65" height="65" />
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="dsa" width="60" height="60" />
       <br>DSA
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="compose" width="65" height="65" />
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="compose" width="60" height="60" />
       <br>Compose
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="60" height="60" />
       <br>Studio
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="60" height="60" />
       <br>Firebase
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="sqlite" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="60" height="60" alt="sqlite" />
       <br>SqLite
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="git" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="60" height="60" alt="git" />
       <br>Git
     </td>
           <td align="center" width="96" >
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Github" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="60" height="60" alt="Github" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="60" height="60" />
       <br>VsCode
+    </td>
+  </tr>
+
+
+  <tr>
+        <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="IJ Idea" width="60" height="60" />
+      <br>Idea
     </td>
   </tr>
  
