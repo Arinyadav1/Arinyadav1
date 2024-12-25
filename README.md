@@ -88,7 +88,7 @@
     </td>
     <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="65" height="65" />
-      <br>VS Code
+      <br>VsCode
     </td>
   </tr>
  
