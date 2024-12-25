@@ -48,7 +48,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96" >
+    <td align="center" width="120" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
       <br>Java
     </td>
