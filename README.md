@@ -96,6 +96,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="IJ Idea" width="60" height="60" />
       <br>Idea
     </td>
+   <td align="center" width="96">
+        <img src="https://github.com/Arinyadav1/Arinyadav1/blob/e827fed6313b0eb1b70a93258a2f24b8b4a75add/Json.svg" alt="IJ Idea" width="60" height="60" />
+      <br>JSON
+    </td>
   </tr>
  
 </table>
