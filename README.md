@@ -39,8 +39,6 @@
   <a href="https://www.linkedin.com/in/arin-yadav-040785245/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/919027899549"><img width="40px" alt="whatsapp" title="Whatapp" src="https://github.com/appicons/Whatsapp/blob/22e69b920f94a974b7bb308a76c9341821e48fec/icons/whatsapp_194x194.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/facebook.svg"/></a> -->
   </p>
 
 ### Tools and Technology That I Love <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
@@ -50,45 +48,45 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" >
+    <td align="center" width="90" height="65"  >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" >
+    <td align="center" width="90" height="65" >
       <a>
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="65" height="65" />
       </a>
       <br>Kotlin
     </td>
-    <td align="center" >
+    <td align="center" width="90" height="65" >
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="dsa" width="65" height="65" />
       <br>DSA
     </td>
-    <td align="center" >
+    <td align="center" width="90" height="65" >
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="compose" width="65" height="65" />
       <br>Compose
     </td>
-    <td align="center" >
+    <td align="center" width="90" height="65"  >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="65" height="65" />
       <br>Studio
     </td>
-       <td align="center" >
+       <td align="center" width="90" height="65" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65" />
       <br>Firebade
     </td>
-       <td align="center">
+       <td align="center" width="90" height="65" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="sqlite" />
       <br>SqLite
     </td>
-          <td align="center" >
+          <td align="center" width="90" height="65"  >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="git" />
       <br>Git
     </td>
-          <td align="center" >
+          <td align="center"  width="90" height="65" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Github" />
       <br>Github
     </td>
-    <td align="center" >
+    <td align="center" width="90" height="65" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="65" height="65" />
       <br>VsCode
     </td>
