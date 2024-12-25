@@ -1,24 +1,24 @@
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="35" height="35" /> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Arin Yadav
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="35" height="35" /> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Arin Yadav 
 <div>
 <img src="https://github.com/Arinyadav1/Arinyadav1/blob/ba7bdb035e302610b44f6bed93330e1340d6f766/bannerNew.svg" alt= "👋 Hi there! I'm Arin Yadav" title="👋 Hi there! I'm Arin Yadav"/> 
 </div>
 <div>
 
-<p align="center">I am Building my skills to become a Software Developer and My deep interest in Full Stack App Development, and DSA, I am doing great to build the skills of Advanced level. </p>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30" height="30" /> &#8287;I am Building my skills to become a Software Developer and My deep interest in Full Stack App Development, and DSA, I am doing great to build the skills of Advanced level. </p>
+ 
+<br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Up!%20Button.png" alt="Up! Button" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Up%20Button.webp" alt="Up Button" width="30" height="30" />  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="27" height="27" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="32" height="32" />
 </div>
-
+<br>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I+am+Full+Stack+App+Developer;Logic+Builder+and+Problem+Solver;I+am+Building+Myself+for+Beat+the+Future+;I+am+Passionate+to+Learning+New+Things+always" alt="Typing SVG" /></a>
@@ -52,17 +52,17 @@
   <tr>
     <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="65" height="65" />
-      <br>&nbsp&nbspJava&nbsp&nbsp
+      <br>Java
     </td>
     <td align="center" >
       <a>
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="65" height="65" />
       </a>
-      <br>&nbsp&nbspKotlin&nbsp&nbsp
+      <br>Kotlin
     </td>
     <td align="center" >
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" alt="dsa" width="65" height="65" />
-      <br>&#8287;&#8287;&#8287;&#8287;DSA&#8287;&#8287;&#8287;&#8287;
+      <br>DSA
     </td>
     <td align="center" >
         <img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" alt="compose" width="65" height="65" />
@@ -70,27 +70,27 @@
     </td>
     <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="65" height="65" />
-      <br>&#8287;&#8287;Studio&#8287;&#8287;
+      <br>Studio
     </td>
        <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65" />
-      <br>&#8287;Firebade&#8287;
+      <br>Firebade
     </td>
        <td align="center">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="65" height="65" alt="sqlite" />
-      <br>&#8287;&#8287;SqLite&#8287;&#8287;&#8287;
+      <br>SqLite
     </td>
           <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="65" height="65" alt="git" />
-      <br>&#8287;&#8287;&#8287;&#8287;Git&#8287;&#8287;&#8287;&#8287;
+      <br>Git
     </td>
           <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="65" height="65" alt="Github" />
-      <br>&#8287;&#8287;Github&#8287;&#8287;
+      <br>Github
     </td>
     <td align="center" >
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="65" height="65" />
-      <br>&#8287;&#8287;VsCode&#8287;&#8287;
+      <br>VsCode
     </td>
   </tr>
  
