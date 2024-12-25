@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>compose-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(139.73,139.742,-148.754,148.742,56.596,59.001)">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-139.73,-139.729,153.104,-153.106,201.873,193.182)">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #242938 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<path class="s0" d="m60 0h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60v-136c0-33.1 26.9-60 60-60z"/>
+	<path fill-rule="evenodd" class="s1" d="m128 175.5c43.9 59.8 86.8-16.7 86.8-62.7-0.1-54.4-55.2-84.8-86.8-84.8-50.7 0-99 41.9-99 99.2 0 63.7 55.3 99 99 99-9.9-1.4-42.8-8.4-43.2-84.2-0.3-51.3 16.7-71.8 43.1-62.8 0.6 0.3 29.1 11.5 29.1 48.3 0 36.7-29 48-29 48z"/>
+	<path fill-rule="evenodd" class="s2" d="m127.2 80c-29-10-64.5 13.9-64.5 61.7 0 78.2 57.9 85.3 64.9 85.3 50.7 0 99-41.9 99-99.2 0-63.7-55.4-99-99-99 12.1-1.7 65.1 13.1 65.1 85.6 0 47.2-39.6 73-65.3 62-0.6-0.2-29.2-11.5-29.2-48.3 0-36.6 29-48.1 29-48.1z"/>
+</svg>
