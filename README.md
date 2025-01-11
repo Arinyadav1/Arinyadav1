@@ -67,11 +67,11 @@
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="android studio" width="60" height="60" />
       <br>Studio
-    </td>
+<!--     </td>
        <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="60" height="60" />
       <br>Firebase
-    </td>
+    </td> -->
        <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="60" height="60" alt="sqlite" />
       <br>SqLite
