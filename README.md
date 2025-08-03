@@ -4,7 +4,7 @@
 </div>
 <div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30" height="30" /> &#8287;I am Building my skills to become a Software Developer and My deep interest in Full Stack App Development, and DSA, I am doing great to build the skills of Advanced level. </p>
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30" height="30" /> &#8287;I am a dedicated and passionate Android, Kotlin Multiplatform (KMP), and Compose Multiplatform (CMP) developer with real-world experience gained through contributions to Mifos Initiative projects. Focused on building scalable Android and cross-platform applications using Jetpack Compose, MVVM architecture, CMP, and KMP. Continuously learning and improving through challenging, hands-on development work. Enjoy building impactful solutions and solving complex problems that enhance technical expertise and deliver real-world value. </p>
  
 <br>
 <div align="center">
